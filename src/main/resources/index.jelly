@@ -1,0 +1,7 @@
+<!--
+  This view is used to render the installed plugins page.
+-->
+<div>
+  This plugin is an example for how to write SCM interfaces for the
+  Pretested Integration plugin.
+</div>
